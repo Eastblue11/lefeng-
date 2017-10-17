@@ -1,0 +1,600 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "5.6折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-7.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/2/6957475221352-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/2/6957475221352-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/1/6957475221352-13.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-110_8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-652.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-653.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-654.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-655.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-656.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-657.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-658.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-659.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/14/127/3c7b6ef7-a052-463f-a62f-b02af5979337.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/14/101/0468d36a-7a80-468a-a95e-20fa988ffc39.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/14/13/4e4f09f4-58d0-4eec-ad2c-c17d92c5becf.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "即魅",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "遮瑕",
+                    "遮毛孔",
+                    "提亮肤色"
+                ],
+                "favorite": false,
+                "gid": 212194270,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 158,
+                "name": "即魅真彩净瑕BB霜50ml",
+                "productName": "真彩净瑕BB霜50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6957475221352",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/912/502/94933346078502912/3/6957475221352-5.jpg",
+                "vipshopPrice": 89
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 822,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 548581410
+                    }
+                ],
+                "totalSaled": 822
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "5.4折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/170/c42e0bd323af46cea4914d91e7f663d3-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/11/4c7e1cde9c354dbd927254a77b19758b-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/191/8f0564a018f24987a286f99f951d8756-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/88/0204b611a67146a6ac0073ae496e8f88-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/167/83f91e7e78bc48dcb829036a50ea465c-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/18/952cd375fd144d498cb4605ebe889fa5-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/93/3b94966e00384ed7b644c08097ea394b-110_8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/2/0c9bce79a7014651aa6f04e5a171888f-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/76/93f9562e357a47febbac7e5583824be4-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/3/4fff50222262451290124b192947dd5b-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/114/afd5da2e40c4469abb38457d2e47ef2a-651.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "舒客",
+                "buyNumMax": 30,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "亮白",
+                    "去渍",
+                    "固齿",
+                    "清火"
+                ],
+                "favorite": false,
+                "gid": 143723362,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/170/c42e0bd323af46cea4914d91e7f663d3-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 90,
+                "name": "舒客白牙素牙膏（超强脱渍型）120克 *2",
+                "productName": "白牙素牙膏（超强脱渍型）120克 *2",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "8311664250154",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/191/8f0564a018f24987a286f99f951d8756-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/29/170/c42e0bd323af46cea4914d91e7f663d3-5.jpg",
+                "vipshopPrice": 49
+            },
+            "goodsStock": {
+                "buyNumMax": 30,
+                "buyNumMin": 1,
+                "saled": 93505,
+                "sizes": [
+                    {
+                        "name": "均码",
+                        "sizeId": 369279745
+                    }
+                ],
+                "totalSaled": 93505
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.2折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/7/d0e6b3a2-4945-4287-ba03-e48042683f46.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/188/2f4e1d27-20eb-444c-96a5-cc2fec4ffd9d.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/105/aad4271a-748a-467b-9207-68f659664742.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/15/61/e17b9719afaf486c808b6dddc6dd4ac2-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/10/20/10/af940c94f632413194b1d165a448269c-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/7/59fe7ae1-1188-4429-88a8-843abd8021ab.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/02/81/c67337e396eb4b72a98bb99b445f26c8-110_8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/24/69/ab402672162941c7b3f19bd5e6281687-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/60/f23f4248-cc88-45c9-8fe4-0ea275c6fcba.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/131/50bb9eef-3b4a-4328-98d8-330db2de4136.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/01/13/33/7171893f6988482f9cfd9791e1dd19a4-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/15/148/7a59300226a2426291dd89aac8cb7c59-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/94/6f53bc10-44a4-414c-9017-7cb5d45623ca.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/103/1852d37c-ac38-44b7-8d77-c084a130858b.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/30/e569249d-637c-4f94-b451-5e959caa60bb.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "小蜜坊",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "三重滋养",
+                    "修护唇部",
+                    "天然活机",
+                    "滋润保湿",
+                    "淡化唇纹"
+                ],
+                "favorite": false,
+                "gid": 181980579,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/7/d0e6b3a2-4945-4287-ba03-e48042683f46.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 79,
+                "name": "小蜜坊三重密集滋养修护唇膜12g",
+                "productName": "三重密集滋养修护唇膜12g",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6959820301948",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/105/aad4271a-748a-467b-9207-68f659664742.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/09/07/7/d0e6b3a2-4945-4287-ba03-e48042683f46.jpg",
+                "vipshopPrice": 49
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 5026,
+                "sizes": [
+                    {
+                        "name": "12g",
+                        "sizeId": 463163314
+                    }
+                ],
+                "totalSaled": 5026
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "7.0折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/36/642d1460972f4cc49aa961306b906616-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/60/95a08df74c444b4997ff6f9ab726b1b9-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/134/476d96991a2d4eae90435d86d4a2e4b2-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/53/f2a506b76fba4eeda65794798ab8aa0b-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/44/8eb37bc9d93e4e4e9bb91d0261f43b53-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/139/60adc73aa5104719a6afebce19305b52-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/118/c73e75256f5e4d9fbb4665a2fc6dd377-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/56/aa36f34f99b64f2c8024f5fd472f3dd4-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/105/a777e557c225408086a3f119d7e573e0-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/76/ae5ba946075e413eb47706c7418e2454-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/124/af6d406c8d804899806ccf5092c2161d-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/7/1eb1015a1c5e45cdaa244607c3706a7c-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/27/134/e997a5996cdb4c89b4cbcd1b03c6a832-651.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "傲蝶",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "韩国V形扁头设计",
+                    "上妆容易",
+                    "拼颜值年代",
+                    "不化妆也该画个眉毛",
+                    "免削旋转双头设计",
+                    "可以画眉后立刻梳眉",
+                    "让你轻松描绘出立体",
+                    "柔顺",
+                    "持久的眉型"
+                ],
+                "favorite": false,
+                "gid": 213781580,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/36/642d1460972f4cc49aa961306b906616-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 79,
+                "name": "傲蝶Ottie傲蝶魅力自动眉笔咖啡色2# 0.2g",
+                "productName": "Ottie傲蝶魅力自动眉笔咖啡色2# 0.2g",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "8809276011282",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/134/476d96991a2d4eae90435d86d4a2e4b2-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/08/12/36/642d1460972f4cc49aa961306b906616-5.jpg",
+                "vipshopPrice": 55
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 12,
+                "sizes": [
+                    {
+                        "name": "0.2g",
+                        "sizeId": 552910197
+                    }
+                ],
+                "totalSaled": 12
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.7折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "植美村",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "水润保湿"
+                ],
+                "favorite": false,
+                "gid": 122343650,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 146,
+                "name": "植美村水漾保湿魔力海洋水50ml",
+                "productName": "水漾保湿魔力海洋水50ml",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6951606601839",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/831/530/1179737941251530831/0/6951606601839-5.jpg",
+                "vipshopPrice": 98
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 40,
+                "sizes": [
+                    {
+                        "name": "50ml",
+                        "sizeId": 315207352
+                    }
+                ],
+                "totalSaled": 40
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "4.0折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/23/32f0da6450864c61bc8768faef38fec5-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/01/147/1939ba68e3ff410bb2356071b32295ca-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/40/754b641e-5a0b-4096-953c-13e5210d5ace.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/181/1e60ab87-d1a0-49a0-aabf-b880f71a95a2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/52/a617a908-3d9e-44f9-9cde-012090ce29f1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/49/8cf1194c-9bbf-4149-bef3-6b11fa03f198.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/60/487d8043-db69-43a4-a0fa-bfe4a39cfc4a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/01/158/5d644358a338459ea539a49e155e0d61-110_8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/98/ce138a4e1f9c4610be9c37002a4d9bad-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/54/da43314f2743429f9d36a871def609a4-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/173/ce3023bfc1444e22b5ef7ea1b37f4275-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/3/ece36702046d4b518300fdde219fae5f-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/139/cd0ff5fefef449bfbd68b5c15ced7a99-651.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "丸美",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "防晒隔离",
+                    "拒绝黑美人"
+                ],
+                "favorite": false,
+                "gid": 181532865,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/23/32f0da6450864c61bc8768faef38fec5-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 198,
+                "name": "丸美丸美激白防晒精华隔离乳SPF30 45g",
+                "productName": "丸美激白防晒精华隔离乳SPF30 45g",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6930957809262",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/40/754b641e-5a0b-4096-953c-13e5210d5ace.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/11/30/23/32f0da6450864c61bc8768faef38fec5-5.jpg",
+                "vipshopPrice": 79
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 95655,
+                "sizes": [
+                    {
+                        "name": "45g",
+                        "sizeId": 462078571
+                    }
+                ],
+                "totalSaled": 95655
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "4.9折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/154563/KANS-6942700235099-1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/154563/KANS-6942700235099-2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/154563/KANS-6942700235099-4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/7/6942700235099-14.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/7/6942700235099-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/7/6942700235099-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/7/6942700235099-13.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/7/6942700235099-110_8.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/201412/201412121616404532.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/201412/201412121616398061.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-652.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "韩束",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "清洁",
+                    "去角质"
+                ],
+                "favorite": false,
+                "gid": 209480710,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 59,
+                "name": "韩束水嫩亮颜去角质素70g 见实物",
+                "productName": "水嫩亮颜去角质素70g 见实物",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6942700235099",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/781/936/2990390152578936781/8/6942700235099-5.jpg",
+                "vipshopPrice": 29
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 30,
+                "sizes": [
+                    {
+                        "name": "70g",
+                        "sizeId": 540717410
+                    }
+                ],
+                "totalSaled": 30
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "7.6折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110_1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110_2.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110_20.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-13.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "玉兰油",
+                "buyNumMax": 30,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "舒缓",
+                    "滋养",
+                    "美白",
+                    "修复"
+                ],
+                "favorite": false,
+                "gid": 124180816,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 130,
+                "name": "玉兰油多效修护霜50g",
+                "productName": "多效修护霜50g",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6903148043257",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/815/194/1016763929077194815/0/6903148043257-5.jpg",
+                "vipshopPrice": 99
+            },
+            "goodsStock": {
+                "buyNumMax": 30,
+                "buyNumMin": 1,
+                "saled": 2353,
+                "sizes": [
+                    {
+                        "name": "50g",
+                        "sizeId": 319506548
+                    }
+                ],
+                "totalSaled": 2353
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "8.3折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-5.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/136/249919a5-2557-4263-a73f-a1cbe7e10e17.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-110.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/lap/2017/07/04/10/184399896.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-110_4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/21/108/104b682f-fd3c-4244-a370-68e73c531cb6.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-651.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-652.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "美宝莲",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "清爽",
+                    "卸妆"
+                ],
+                "favorite": false,
+                "gid": 181688513,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-5.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 59,
+                "name": "美宝莲眼部及唇部卸妆液150ML",
+                "productName": "眼部及唇部卸妆液150ML",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6902395321774",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-110.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdc/706/576/965253924453576706/1/6902395321774-5.jpg",
+                "vipshopPrice": 49
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 46875,
+                "sizes": [
+                    {
+                        "name": "150ML",
+                        "sizeId": 462457632
+                    }
+                ],
+                "totalSaled": 46875
+            }
+        },
+        {
+            "goods": {
+                "addCartStatus": 1,
+                "agio": "6.3折",
+                "allImages": [
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/172/f4cfe8f1-d293-4002-ab1b-ff03c023dc7d.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/31/c560c856-2363-4655-a85d-395781339e2d.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/90/69f17c12-5dbe-4eb5-9ae4-ae948bfb15fb.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/172/12234a17-c217-47c2-848f-c064179c5135.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/33/6a0997d6-64d2-43bb-8998-c18eba1f8cf4.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/77/20bc05ce-bb5f-4c4a-a5ea-c38a1f0a465a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/102/7167cdce-02d6-40c8-b2ac-90d41a4b0271.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/184/8366b64f-fc80-465a-b5c4-05d72ce89489.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/184/a8bb7e77-a388-4b76-ba4e-2a0bd3ee276a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/73/e03aa8dd-281d-4e08-9e26-c66f90709af0.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/2/df0d8457-a04f-4c22-8fd7-9067f9995a13.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/124/5b842d01-edb8-4371-b9e7-9fefc9b49ffa.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/13/97de83ac-3cc5-45dd-a291-5b516f8589ae.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/196/03f22613-1893-43c9-8b62-a6f2332db7cb.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/151/3ff74c97-0768-473d-b132-b9ccef4149ab.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/136/d90d213b-082e-4185-82b0-db1187cc7c11.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/137/bdc06f78-2c8a-4aa8-a4db-299c9d05219a.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/119/2ef8b80d-0285-4204-acf3-b6a014f2e794.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/58/8b8b5ec7-6951-46e5-8fa3-b1a1917aec5e.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/47/3e5e658e-a459-439a-ab6f-0aca6bc02314.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/117/e54c5cad-f8bf-4b19-9d88-0f61e3de27d1.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/10/5e676cc6-e772-4f0e-bde2-d8e3fa79f241.jpg",
+                    "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/116/dd267177-2e84-43b7-87ff-7bd0f55a4a6c.jpg"
+                ],
+                "appsPreheatTime": 0,
+                "brandId": 800036984,
+                "brandStoreName": "珍珂儿",
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "channelFeatureList": [
+                    "补水保湿"
+                ],
+                "favorite": false,
+                "gid": 212056191,
+                "hiTao": false,
+                "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/172/f4cfe8f1-d293-4002-ab1b-ff03c023dc7d.jpg",
+                "isAntiBrushed": "0",
+                "isPreheat": false,
+                "marketPrice": 78,
+                "name": "珍珂儿澳洲山羊奶补水润肌面膜(新升级)28ml*10片",
+                "productName": "澳洲山羊奶补水润肌面膜(新升级)28ml*10片",
+                "saleOut": false,
+                "salecount": 0,
+                "sn": "6957475233867",
+                "transverseImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/172/12234a17-c217-47c2-848f-c064179c5135.jpg",
+                "verticalImage": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/30/172/f4cfe8f1-d293-4002-ab1b-ff03c023dc7d.jpg",
+                "vipshopPrice": 49
+            },
+            "goodsStock": {
+                "buyNumMax": 20,
+                "buyNumMin": 1,
+                "saled": 9031,
+                "sizes": [
+                    {
+                        "name": "均码",
+                        "sizeId": 548204130
+                    }
+                ],
+                "totalSaled": 9031
+            }
+        }
+    ]
+}

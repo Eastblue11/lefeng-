@@ -1,0 +1,138 @@
+
+
+{
+    "code": 0, 
+    "msg": "success", 
+    "data": [
+        {
+            "agio": "全场4.3折起", 
+            "bid": 800037809, 
+            "brandImage": "http://b.appsimg.com/2017/07/06/5965/1499307907672.jpg", 
+            "name": "珀莱雅乐蜂运营专场", 
+            "pms": "满149减50 上不封顶"
+        }, 
+        {
+            "agio": "5.8折起", 
+            "bid": 800037534, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/9171/1498639808432.jpg", 
+            "name": "特卖-欧莱雅"
+        }, 
+        {
+            "agio": "6.9折起", 
+            "bid": 800037549, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/3200/1498639889345.jpg", 
+            "name": "特卖-御泥坊", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "4.3折起", 
+            "bid": 800037569, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/9619/1498640012091.jpg", 
+            "name": "特卖-即魅", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "5.1折起", 
+            "bid": 800037574, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/8052/1498640062531.jpg", 
+            "name": "特卖-玉兰油"
+        }, 
+        {
+            "agio": "2.5折起", 
+            "bid": 800037579, 
+            "brandImage": "http://b.appsimg.com/2017/07/09/7365/1499555482869.jpg", 
+            "name": "特卖-里美"
+        }, 
+        {
+            "agio": "4.7折起", 
+            "bid": 800007122, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/5011/1498640358049.jpg", 
+            "name": "自然堂乐蜂运营专场", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "6.6折起", 
+            "bid": 800037599, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/4998/1498640231192.jpg", 
+            "name": "特卖-阿芙", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "3折起", 
+            "bid": 800037604, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/2421/1498640247919.jpg", 
+            "name": "特卖-Larastyle", 
+            "pms": "满199减100 上不封顶"
+        }, 
+        {
+            "agio": "3.3折起", 
+            "bid": 800037544, 
+            "brandImage": "http://b.appsimg.com/2017/07/09/6399/1499555540602.jpg", 
+            "name": "特卖-魔法医生"
+        }, 
+        {
+            "agio": "3.1折起", 
+            "bid": 800037564, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/3797/1498638155040.jpg", 
+            "name": "特卖-姬芮", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "4.2折起", 
+            "bid": 800037609, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/8559/1498638567407.jpg", 
+            "name": "特卖-美宝莲"
+        }, 
+        {
+            "agio": "2.7折起", 
+            "bid": 800037624, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/4164/1498638702816.jpg", 
+            "name": "特卖-佰草集"
+        }, 
+        {
+            "agio": "3.8折起", 
+            "bid": 800037629, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/6497/1498638748165.jpg", 
+            "name": "特卖-欧诗漫", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "4.2折起", 
+            "bid": 800037644, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/5947/1498638889753.jpg", 
+            "name": "特卖-兰芝"
+        }, 
+        {
+            "agio": "2.3折起", 
+            "bid": 800037654, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/7620/1498639069035.jpg", 
+            "name": "特卖-谜尚", 
+            "pms": "满199减50 上不封顶"
+        }, 
+        {
+            "agio": "3.6折起", 
+            "bid": 800033679, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/9507/1498640530886.jpg", 
+            "name": "花印乐蜂运营专场", 
+            "pms": "满199减100 上不封顶"
+        }, 
+        {
+            "agio": "7.1折起", 
+            "bid": 800037659, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/3459/1498639100501.jpg", 
+            "name": "特卖-DHC"
+        }, 
+        {
+            "agio": "3.7折起", 
+            "bid": 800028801, 
+            "brandImage": "http://b.appsimg.com/2017/05/27/4426/1495854678523.jpg", 
+            "name": "卡姿兰乐蜂运营专场"
+        }, 
+        {
+            "agio": "3折起", 
+            "bid": 800037669, 
+            "brandImage": "http://b.appsimg.com/2017/06/28/4516/1498639165814.jpg", 
+            "name": "特卖-曼秀雷敦"
+        }
+    ]
+}

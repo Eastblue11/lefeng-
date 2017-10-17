@@ -1,0 +1,134 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "agio": "1折起",
+            "bid": 800037169,
+            "brandImage": "http://b.appsimg.com/2017/06/27/3884/1498555503858.jpg",
+            "name": "特卖-雅芳"
+        },
+        {
+            "agio": "4.4折起",
+            "bid": 800037174,
+            "brandImage": "http://b.appsimg.com/2017/06/27/7134/1498555534450.jpg",
+            "name": "特卖-理肤泉"
+        },
+        {
+            "agio": "5.4折起",
+            "bid": 800037219,
+            "brandImage": "http://b.appsimg.com/2017/06/27/128/1498555904189.jpg",
+            "name": "特卖-雅漾",
+            "pms": "指定产品买即送EC粉色笔记本 赠完为止"
+        },
+        {
+            "agio": "1.3折起",
+            "bid": 800037229,
+            "brandImage": "http://b.appsimg.com/2017/06/27/5329/1498555960308.jpg",
+            "name": "特卖-菲诗小铺"
+        },
+        {
+            "agio": "6.5折起",
+            "bid": 800037234,
+            "brandImage": "http://b.appsimg.com/2017/06/27/7858/1498555995113.jpg",
+            "name": "特卖-泊美",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "3折起",
+            "bid": 800037239,
+            "brandImage": "http://b.appsimg.com/2017/06/27/8273/1498556070114.jpg",
+            "name": "特卖-韩后"
+        },
+        {
+            "agio": "3.4折起",
+            "bid": 800037259,
+            "brandImage": "http://b.appsimg.com/2017/06/27/4405/1498556199575.jpg",
+            "name": "特卖-玻儿",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "7.7折起",
+            "bid": 800037284,
+            "brandImage": "http://b.appsimg.com/2017/06/27/9683/1498556430721.jpg",
+            "name": "特卖-海淘个人护理专场"
+        },
+        {
+            "agio": "3.2折起",
+            "bid": 800037294,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8778/1498638919827.jpg",
+            "name": "特卖-妙巴黎",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.8折起",
+            "bid": 800037299,
+            "brandImage": "http://b.appsimg.com/2017/06/28/2202/1498638959902.jpg",
+            "name": "特卖-菲拉格慕专场"
+        },
+        {
+            "agio": "6.3折起",
+            "bid": 800037304,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6416/1498638985581.jpg",
+            "name": "特卖-汇美舍",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "7.4折起",
+            "bid": 800037319,
+            "brandImage": "http://b.appsimg.com/2017/06/27/6341/1498556717903.jpg",
+            "name": "特卖-资生堂洗护",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.2折起",
+            "bid": 800037324,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1244/1498639126345.jpg",
+            "name": "特卖-宝洁洗护专场"
+        },
+        {
+            "agio": "3.7折起",
+            "bid": 800037329,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6620/1498639145285.jpg",
+            "name": "特卖-丰添"
+        },
+        {
+            "agio": "3.4折起",
+            "bid": 800037344,
+            "brandImage": "http://b.appsimg.com/2017/06/28/86/1498639244330.jpg",
+            "name": "特卖-伊诗婷"
+        },
+        {
+            "agio": "2.4折起",
+            "bid": 800037399,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6837/1498639748641.jpg",
+            "name": "特卖-SNP护肤专场"
+        },
+        {
+            "agio": "6.1折起",
+            "bid": 800037409,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8532/1498639875889.jpg",
+            "name": "特卖-too cool for school护肤专场"
+        },
+        {
+            "agio": "3.3折起",
+            "bid": 800037434,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5381/1498619098244.jpg",
+            "name": "特卖-舒客"
+        },
+        {
+            "agio": "4.4折起",
+            "bid": 800037509,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4132/1498639611087.jpg",
+            "name": "特卖-静佳",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "2.2折起",
+            "bid": 800037514,
+            "brandImage": "http://b.appsimg.com/2017/06/28/9946/1498639637959.jpg",
+            "name": "特卖-珍珂儿",
+            "pms": "满199减50 上不封顶"
+        }
+    ]
+}

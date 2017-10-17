@@ -1,0 +1,388 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "agio": "",
+            "bid": 800039711,
+            "brandImage": "http://b.appsimg.com/2017/07/07/2964/1499430464053.jpg",
+            "name": "超级品牌-自然共和国",
+            "pms": "168减40 上不封顶",
+            "starProductList": [
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 181710423,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/22/131/2e22dd1d-0d2d-473a-964e-32ac19e129a6.jpg",
+                    "productName": "芦荟舒缓保湿凝胶300ml",
+                    "vipshopPrice": 39
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 181710349,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/23/76/87549554-6720-4154-b385-09e2f58c6f76.jpg",
+                    "productName": "芦荟舒缓保湿清颜套组",
+                    "vipshopPrice": 219
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 185053756,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/31/199/65e505a2-0191-40fc-b60a-1045d6b1a7bd.jpg",
+                    "productName": "芦荟舒缓修护三件套",
+                    "vipshopPrice": 168
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 181710316,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/23/100/7cbc781a-0013-40b2-b99b-7e26e826bb42.jpg",
+                    "productName": "波利尼西亚补水保湿套组",
+                    "vipshopPrice": 229
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 185054149,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/10/130/c28e9a81-322a-4f8e-ac39-0ea8458076b3.jpg",
+                    "productName": "芦荟舒缓保湿凝胶300ml三只特惠装",
+                    "vipshopPrice": 109
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 181710356,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/06/17/f5d967a4-3179-4d7a-ba21-7136ffd772a6.jpg",
+                    "productName": "芦荟保湿清洁套组（芦荟胶300ml+芦荟洁面乳150ml）",
+                    "vipshopPrice": 72
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 185054021,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/31/83/d0a3b413-4e0e-4984-be52-03c054548ac8.jpg",
+                    "productName": "芦荟舒缓修护两件套",
+                    "vipshopPrice": 119
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 101497463,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdc/269/848/1013386229738848269/0/0015010801606-5.jpg",
+                    "productName": "芦荟保湿清洁套组",
+                    "vipshopPrice": 72
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 167938925,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdc/918/158/454095599589158918/0/8806173429912-5.jpg",
+                    "productName": "手与自然玫瑰护手霜30ml*2",
+                    "vipshopPrice": 56
+                },
+                {
+                    "brandId": 800039711,
+                    "brandStoreName": "",
+                    "gid": 185054168,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/06/20/165/a57d7c23-405b-4322-84e8-c308b846828e.jpg",
+                    "productName": "舒缓保湿芦荟胶300ml两只装",
+                    "vipshopPrice": 69
+                }
+            ]
+        },
+        {
+            "agio": "",
+            "bid": 800039706,
+            "brandImage": "http://b.appsimg.com/2017/07/07/1099/1499430431007.jpg",
+            "name": "超级品牌-欧诗漫",
+            "pms": "满199减50 上不封顶",
+            "starProductList": [
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937365,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/156/6d135bb46218463780a168efa074b655-5.jpg",
+                    "productName": "珍珠亮采焕颜青春礼盒",
+                    "vipshopPrice": 259
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 177495608,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/92/06148c2984314f8c87ecf7b2e90f2861-5.jpg",
+                    "productName": "珍珠鲜萃32片面膜套组",
+                    "vipshopPrice": 199
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937309,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/91/2de8693107674c4fba3cc2e3aaf4d6fd-5.jpg",
+                    "productName": "珍珠水氧欢悦保湿礼盒(黄景瑜定制版)",
+                    "vipshopPrice": 199
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 183067358,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/55/48aa007d14dd4833802167e2ad35a472-5.jpg",
+                    "productName": "精纯弹力蛋白眼精华20ml",
+                    "vipshopPrice": 49
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937323,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/157/0867f2fad8e54d368f9d7e4929af49fd-5.jpg",
+                    "productName": "珍珠白精粹焕白全护理套装",
+                    "vipshopPrice": 370
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 183067258,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/02/16/189/9e598024aa7a4bf98ad67792c6643bc6-5.jpg",
+                    "productName": "珍珠滢润弹力美颜5件套",
+                    "vipshopPrice": 398
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937363,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/12/175/0df88bfb0ab748e99a6a083f3e71d7ca-5.jpg",
+                    "productName": "水活奇迹.动力补水礼盒",
+                    "vipshopPrice": 258
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 177495618,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/04/28/175/12a4ecf95d4c4bd09beb0100c5097949-5.jpg",
+                    "productName": "轻盈美白防晒乳优惠套盒（轻盈美白防晒乳60g+珍珠晒后修护精华露60g）",
+                    "vipshopPrice": 108
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937316,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/12/05/56/a5ac214ce7734712aabfece7cdbcfcbd-5.jpg",
+                    "productName": "水活奇迹高保湿套装",
+                    "vipshopPrice": 328
+                },
+                {
+                    "brandId": 800039706,
+                    "brandStoreName": "欧诗漫",
+                    "gid": 175937293,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/02/16/11/3942f107d0ce417ab9ce773cab66127e-5.jpg",
+                    "productName": "珍珠毛孔清透护理5件套",
+                    "vipshopPrice": 429
+                }
+            ]
+        },
+        {
+            "agio": "",
+            "bid": 800039701,
+            "brandImage": "http://b.appsimg.com/2017/07/07/4375/1499430403822.jpg",
+            "name": "超级品牌-珀莱雅",
+            "pms": "满149减50 上不封顶",
+            "starProductList": [
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570776,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/191/bc0dab62-f0a7-4837-8ef0-2792f63b0bcb.jpg",
+                    "productName": "水动力经典四件套",
+                    "vipshopPrice": 209
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570856,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/125/e85447fb-ecf5-463a-a2fc-5fde3e57cc7a.jpg",
+                    "productName": "雪肌焕白套盒",
+                    "vipshopPrice": 249
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570719,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/03/23/147/d8ca2b17d8834a27a53246296877dca9-5.jpg",
+                    "productName": "靓白肌密明星组合",
+                    "vipshopPrice": 116
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570851,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/138/7d94d4f4-4af2-4c82-befd-c2ee1403f8f9.jpg",
+                    "productName": "雪肌舒颜气垫粉凝霜21#明亮12gX2",
+                    "vipshopPrice": 228
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570784,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/164/aec13b4e-2b81-46fd-9542-f2f42b55878a.jpg",
+                    "productName": "靓白肌密明星美白六件套",
+                    "vipshopPrice": 358
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570828,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/27/2ce90538-4d26-481f-b890-e33664abe5bc.jpg",
+                    "productName": "海洋净颜舒缓卸妆水优惠装",
+                    "vipshopPrice": 69
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570911,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2016/07/27/61/8c8d7226-ea14-4ca8-aa04-679c32400a02.jpg",
+                    "productName": "恒采修护保湿眼霜18g",
+                    "vipshopPrice": 88
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570708,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/05/17/149/c7581f6653ff4dd7a12fa9bf5d7694fc-5.jpg",
+                    "productName": "靓白肌密璀钻之光限量珍藏版礼盒",
+                    "vipshopPrice": 249
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570745,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/02/16/34/2d9c9a01ae1640448bac912ba0c157fc-5.jpg",
+                    "productName": "水动力尊享套装",
+                    "vipshopPrice": 409
+                },
+                {
+                    "brandId": 800039701,
+                    "brandStoreName": "珀莱雅",
+                    "gid": 230570790,
+                    "image": "http://a2.vimage1.com/upload/merchandise/pdcvis/2017/02/16/169/5a86c73f3ea04d3e89730d289a23a69a-5.jpg",
+                    "productName": "水漾芯肌透润乳（倍润型）组合",
+                    "vipshopPrice": 246
+                }
+            ]
+        },
+        {
+            "agio": "1.4折起",
+            "bid": 800037779,
+            "brandImage": "http://b.appsimg.com/2017/06/28/3494/1498643830249.jpg",
+            "name": "特卖-海淘我的美丽日记面膜专场"
+        },
+        {
+            "agio": "7.4折起",
+            "bid": 800037314,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6870/1498639060673.jpg",
+            "name": "特卖-联合利华"
+        },
+        {
+            "agio": "3.6折起",
+            "bid": 800024315,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1272/1498640636809.jpg",
+            "name": "美即乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "全场4.3折起",
+            "bid": 800037809,
+            "brandImage": "http://b.appsimg.com/2017/07/06/5965/1499307907672.jpg",
+            "name": "珀莱雅乐蜂运营专场",
+            "pms": "满149减50 上不封顶"
+        },
+        {
+            "agio": "7.4折起",
+            "bid": 800037539,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5934/1498639835827.jpg",
+            "name": "特卖-丸美",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.3折起",
+            "bid": 800025640,
+            "brandImage": "http://b.appsimg.com/2017/06/12/5786/1497230147384.jpg",
+            "name": "安婕妤乐蜂运营专场",
+            "pms": "满199赠礼包 赠完为止 不累计"
+        },
+        {
+            "agio": "6折起",
+            "bid": 800004798,
+            "brandImage": "http://b.appsimg.com/2017/05/27/9205/1495865495502.jpg",
+            "name": "彼丽乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "2.5折起",
+            "bid": 800037684,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4573/1498639270736.jpg",
+            "name": "特卖-3CE专业彩妆专场"
+        },
+        {
+            "agio": "2.2折起",
+            "bid": 800037639,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5410/1498638858357.jpg",
+            "name": "特卖-贝德玛",
+            "pms": "折上9折"
+        },
+        {
+            "agio": "7.4折起",
+            "bid": 800028369,
+            "brandImage": "http://b.appsimg.com/2017/05/24/3732/1495588761223.jpg",
+            "name": "理肤泉母婴乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "2.5折起",
+            "bid": 800037579,
+            "brandImage": "http://b.appsimg.com/2017/07/09/7365/1499555482869.jpg",
+            "name": "特卖-里美",
+            "pms": "满99赠樱花卸妆水 不累计 赠完为止"
+        },
+        {
+            "agio": "2.8折起",
+            "bid": 800037244,
+            "brandImage": "http://b.appsimg.com/2017/07/06/6503/1499307911328.jpg",
+            "name": "特卖-滋源",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.8折起",
+            "bid": 800028340,
+            "brandImage": "http://b.appsimg.com/2017/05/24/2690/1495588739572.jpg",
+            "name": "亲润乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.4折起",
+            "bid": 800037289,
+            "brandImage": "http://b.appsimg.com/2017/06/27/8183/1498556494134.jpg",
+            "name": "特卖-海淘森田药妆面膜专场"
+        },
+        {
+            "agio": "3.5折起",
+            "bid": 800037614,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6495/1498638606090.jpg",
+            "name": "特卖-相宜本草",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.7折起",
+            "bid": 800037594,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6059/1498638258223.jpg",
+            "name": "特卖-森田药妆",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.4折起",
+            "bid": 800013547,
+            "brandImage": "http://b.appsimg.com/2017/05/27/3180/1495864878866.jpg",
+            "name": "澳洲疗亮乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        }
+    ]
+}

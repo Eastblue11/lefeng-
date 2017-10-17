@@ -1,0 +1,132 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "agio": "4.1折起",
+            "bid": 800037769,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8879/1498643664338.jpg",
+            "name": "特卖-色彩地带",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.3折起",
+            "bid": 800037784,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4903/1498643912197.jpg",
+            "name": "特卖-韩国进口口腔护理专场"
+        },
+        {
+            "agio": "3.7折起",
+            "bid": 800037799,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5016/1498644199182.jpg",
+            "name": "特卖-魅力彩妆专场"
+        },
+        {
+            "agio": "5.3折起",
+            "bid": 800016635,
+            "brandImage": "http://b.appsimg.com/2017/05/27/7588/1495856771493.jpg",
+            "name": "CYP乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.9折起",
+            "bid": 800026442,
+            "brandImage": "http://b.appsimg.com/2017/05/27/6524/1495854871310.jpg",
+            "name": "海蓝之谜乐蜂运营专场",
+            "pms": "指定产品买即送EC粉色笔记本 赠完为止"
+        },
+        {
+            "agio": "4.8折起",
+            "bid": 800037774,
+            "brandImage": "http://b.appsimg.com/2017/06/28/159/1498643784964.jpg",
+            "name": "特卖-薇婷"
+        },
+        {
+            "agio": "7.2折起",
+            "bid": 800002152,
+            "brandImage": "http://b.appsimg.com/2017/07/07/4693/1499392936426.jpg",
+            "name": "俏十岁乐蜂运营专场",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "3.1折起",
+            "bid": 800032064,
+            "brandImage": "http://b.appsimg.com/2017/06/05/8830/1496654170574.jpg",
+            "name": "傲蝶乐蜂网运营专场"
+        },
+        {
+            "agio": "5.2折起",
+            "bid": 800037279,
+            "brandImage": "http://b.appsimg.com/2017/06/27/8509/1498556403207.jpg",
+            "name": "特卖-海淘防晒专场"
+        },
+        {
+            "agio": "4.2折起",
+            "bid": 800037334,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4494/1498639185850.jpg",
+            "name": "特卖-康蜜儿"
+        },
+        {
+            "agio": "2折起",
+            "bid": 800037349,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5179/1498639258869.jpg",
+            "name": "特卖-蒙芭拉",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "2.8折起",
+            "bid": 800037529,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8325/1498639747690.jpg",
+            "name": "特卖-丽得姿"
+        },
+        {
+            "agio": "5.3折起",
+            "bid": 800026435,
+            "brandImage": "http://b.appsimg.com/2017/05/27/5656/1495865735392.jpg",
+            "name": "碧欧泉乐蜂运营专场"
+        },
+        {
+            "agio": "4.1折起",
+            "bid": 800026440,
+            "brandImage": "http://b.appsimg.com/2017/05/27/5406/1495856219942.jpg",
+            "name": "科颜氏乐蜂运营专场",
+            "pms": "指定产品买即送EC粉色笔记本 赠完为止"
+        },
+        {
+            "agio": "1.4折起",
+            "bid": 800037404,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5059/1498639829065.jpg",
+            "name": "特卖-THE SAEM护肤专场"
+        },
+        {
+            "agio": "4.5折起",
+            "bid": 800037699,
+            "brandImage": "http://b.appsimg.com/2017/06/28/9927/1498639570247.jpg",
+            "name": "特卖-leaders丽得姿海淘专场"
+        },
+        {
+            "agio": "3.2折起",
+            "bid": 800037804,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8044/1498644246082.jpg",
+            "name": "特卖-伊丽莎白.长耳熊Elizavecca护肤专场"
+        },
+        {
+            "agio": "3.2折起",
+            "bid": 800037264,
+            "brandImage": "http://b.appsimg.com/2017/06/27/8693/1498556249518.jpg",
+            "name": "特卖-海淘THE FACE SHOP菲诗小铺护肤专场"
+        },
+        {
+            "agio": "3.4折起",
+            "bid": 800037269,
+            "brandImage": "http://b.appsimg.com/2017/06/27/1516/1498556280363.jpg",
+            "name": "特卖-海淘爆款面膜专场"
+        },
+        {
+            "agio": "3.3折起",
+            "bid": 800037274,
+            "brandImage": "http://b.appsimg.com/2017/06/27/2778/1498556316967.jpg",
+            "name": "特卖-海淘婵真护肤专场"
+        }
+    ]
+}

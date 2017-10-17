@@ -1,0 +1,133 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "agio": "5.5折起",
+            "bid": 800037524,
+            "brandImage": "http://b.appsimg.com/2017/07/11/2746/1499740927636.jpg",
+            "name": "特卖-韩束",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.7折起",
+            "bid": 800037554,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1857/1498639908956.jpg",
+            "name": "特卖-净肌"
+        },
+        {
+            "agio": "2.3折起",
+            "bid": 800037559,
+            "brandImage": "http://b.appsimg.com/2017/06/28/2370/1498639988664.jpg",
+            "name": "特卖-百雀羚",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "3.1折起",
+            "bid": 800037589,
+            "brandImage": "http://b.appsimg.com/2017/07/06/4362/1499338780000.jpg",
+            "name": "特卖-一叶子",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.9折起",
+            "bid": 800037619,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1638/1498638641904.jpg",
+            "name": "特卖-自然共和国",
+            "pms": "168减40 上不封顶"
+        },
+        {
+            "agio": "3.3折起",
+            "bid": 800037649,
+            "brandImage": "http://b.appsimg.com/2017/06/28/2271/1498639005915.jpg",
+            "name": "特卖-丝塔芙"
+        },
+        {
+            "agio": "2.8折起",
+            "bid": 800037664,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8720/1498639136837.jpg",
+            "name": "特卖-玛丽黛佳"
+        },
+        {
+            "agio": "8.8折起",
+            "bid": 800037679,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8296/1498640296975.jpg",
+            "name": "特卖-高姿",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.2折起",
+            "bid": 800037689,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6821/1498639482079.jpg",
+            "name": "特卖-DIA FORCE眼膜专场"
+        },
+        {
+            "agio": "3.5折起",
+            "bid": 800037694,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1231/1498639514647.jpg",
+            "name": "特卖-IT'S SKIN护肤专场"
+        },
+        {
+            "agio": "7.5折起",
+            "bid": 800037714,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4302/1498642988470.jpg",
+            "name": "特卖-植美村"
+        },
+        {
+            "agio": "2.8折起",
+            "bid": 800037719,
+            "brandImage": "http://b.appsimg.com/2017/06/28/5226/1498643043315.jpg",
+            "name": "特卖-美肤宝",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "1.8折起",
+            "bid": 800037724,
+            "brandImage": "http://b.appsimg.com/2017/06/28/6943/1498643164154.jpg",
+            "name": "特卖-香水联合专场"
+        },
+        {
+            "agio": "1.2折起",
+            "bid": 800037729,
+            "brandImage": "http://b.appsimg.com/2017/07/07/6029/1499392912035.jpg",
+            "name": "特卖-美莉安",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "3.5折起",
+            "bid": 800037739,
+            "brandImage": "http://b.appsimg.com/2017/06/28/9760/1498643327053.jpg",
+            "name": "特卖-雪肌精"
+        },
+        {
+            "agio": "4.8折起",
+            "bid": 800037744,
+            "brandImage": "http://b.appsimg.com/2017/06/28/1147/1498643414669.jpg",
+            "name": "特卖-思亲肤"
+        },
+        {
+            "agio": "3.3折起",
+            "bid": 800037749,
+            "brandImage": "http://b.appsimg.com/2017/06/29/5620/1498727812054.jpg",
+            "name": "特卖-施华蔻"
+        },
+        {
+            "agio": "5.6折起",
+            "bid": 800037754,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4075/1498643510789.jpg",
+            "name": "特卖-丝蕴"
+        },
+        {
+            "agio": "7.1折起",
+            "bid": 800037759,
+            "brandImage": "http://b.appsimg.com/2017/06/28/3324/1498643561628.jpg",
+            "name": "特卖-安热沙"
+        },
+        {
+            "agio": "1.8折起",
+            "bid": 800037764,
+            "brandImage": "http://b.appsimg.com/2017/06/28/7840/1498643637613.jpg",
+            "name": "特卖-伊蒂之屋"
+        }
+    ]
+}

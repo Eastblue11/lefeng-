@@ -1,0 +1,61 @@
+{
+    "code": 0,
+    "msg": "success",
+    "data": [
+        {
+            "agio": "3.4折起",
+            "bid": 800037519,
+            "brandImage": "http://b.appsimg.com/2017/06/30/1223/1498802483249.jpg",
+            "name": "特卖-吾尊",
+            "pms": "满199减50 上不封顶"
+        },
+        {
+            "agio": "4.6折起",
+            "bid": 800037704,
+            "brandImage": "http://b.appsimg.com/2017/06/28/4910/1498639605053.jpg",
+            "name": "特卖-ON THE BODY个人护理专场"
+        },
+        {
+            "agio": "2.4折起",
+            "bid": 800037709,
+            "brandImage": "http://b.appsimg.com/2017/06/28/7910/1498639638755.jpg",
+            "name": "特卖-Rosebud Salve花蕾膏专场"
+        },
+        {
+            "agio": "1.9折起",
+            "bid": 800037789,
+            "brandImage": "http://b.appsimg.com/2017/06/28/7173/1498643974489.jpg",
+            "name": "特卖-九朵云护肤专场"
+        },
+        {
+            "agio": "3折起",
+            "bid": 800037414,
+            "brandImage": "http://b.appsimg.com/2017/06/28/715/1498639960086.jpg",
+            "name": "特卖-法国欧树护肤专场"
+        },
+        {
+            "agio": "3.7折起",
+            "bid": 800037354,
+            "brandImage": "http://b.appsimg.com/2017/06/29/9996/1498727747847.jpg",
+            "name": "特卖-润诺"
+        },
+        {
+            "agio": "2.3折起",
+            "bid": 800037794,
+            "brandImage": "http://b.appsimg.com/2017/06/28/9592/1498644132856.jpg",
+            "name": "特卖-美体瘦身专场"
+        },
+        {
+            "agio": "1.5折起",
+            "bid": 800037419,
+            "brandImage": "http://b.appsimg.com/2017/06/28/2555/1498639988748.jpg",
+            "name": "特卖-海淘Byphasse蓓昂斯护肤专场"
+        },
+        {
+            "agio": "1.6折起",
+            "bid": 800037394,
+            "brandImage": "http://b.appsimg.com/2017/06/28/8819/1498639679350.jpg",
+            "name": "特卖-Skin1004护肤专场"
+        }
+    ]
+}
